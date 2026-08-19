@@ -27,7 +27,7 @@ x-note: 'Enrichment 2026-07-20: luotianyi.org resolves (208.98.40.228) but HTTPS
   developer portal, docs, or spec surface exists at this domain. "Luo Tianyi" is a
   Chinese Vocaloid virtual-singer name; this appears to be a mislabeled / dead
   portfolio-lead stub. Nothing to enrich — no artifacts created.'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
